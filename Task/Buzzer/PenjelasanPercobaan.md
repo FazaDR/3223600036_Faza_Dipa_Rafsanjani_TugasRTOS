@@ -1,0 +1,1 @@
+Disini Masing-masing buzzer memiliki task sendiri yang menghasilkan nada (tone) dengan frekuensi dan waktu nyala-mati berbeda. Buzzer pertama pada 1000 Hz dan buzzer kedua pada 1500 Hz. Karena setiap task dijalankan di core terpisah, keduanya dapat bekerja bersamaan tanpa saling mengganggu. 
